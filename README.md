@@ -57,3 +57,5 @@ C. Scales and the sizes of Axes are also kept Relative for ease of representatio
 
 ## Plots
 ![Annual Rainfall](/images/annual.png?raw=true "Annual Rainfall")
+![Seasonal Rainfall](/images/phase.png?raw=true "Seasonal Rainfall")
+![Monthly Rainfall](/images/monthly.png?raw=true "Monthly Rainfall")
