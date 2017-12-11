@@ -49,7 +49,7 @@ The plot indicates that the though the Average annual rainfall is more or less u
 A. Monthly Variation of Average Rainfall over the century (1901-2015)<br>
 B. Annual Average Rainfall Variation (1901-2015)<br>
 C. Seasonal or Phase wise Rainfall Distribution (Jan-Feb, Mar-May, Jun-Sep, Oct-Dec)<br>
-<br><br>
+<br>
 4. Insightfulness - The following key points were kept in mind for delivering insightful observations.<br>
 A. Color Scheme is Viridis which represented scale of average rainfall from Low(Purple) to High(Bright Yellow)<br>
 B. In the Scatter Plots ( Monthly Data), The size of scattered points is kept dynamic to represent their relative measure.<br>
