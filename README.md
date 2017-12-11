@@ -54,3 +54,6 @@ C. Seasonal or Phase wise Rainfall Distribution (Jan-Feb, Mar-May, Jun-Sep, Oct-
 A. Color Scheme is Viridis which represented scale of average rainfall from Low(Purple) to High(Bright Yellow)<br>
 B. In the Scatter Plots ( Monthly Data), The size of scattered points is kept dynamic to represent their relative measure.<br>
 C. Scales and the sizes of Axes are also kept Relative for ease of representation and understanding.<br>
+
+## Plots
+![Annual Rainfall](/images/annual.png?raw=true "Annual Rainfall")
