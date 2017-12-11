@@ -9,7 +9,7 @@ Duration: 1901-2015 <br>
 > - [Link 1]( https://drive.google.com/open?id=1IBqmzgD8iDgZZ8jXNVoYX-DE4If-dxjg )
 > - [Link 1]( https://data.gov.in/resources/all-india-area-weighted-monthly-seasonal-and-annual-rainfall-mm-1901-2015 )
 
-### Implementation of the Above Paper.
+### Implementation
 Technical platform used for implementation: **Python3, Jupyter Notebook**
 
 > Implemented By:
