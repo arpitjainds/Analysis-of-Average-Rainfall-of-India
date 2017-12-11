@@ -1,4 +1,4 @@
-# Analysis-of-Average-Rainfall-of-India
+# Analysis of Average Rainfall of India
 How has the Average Rainfall Rate in India (considering monthly analysis) varied over the last century? <br><br>
 Region: India <br>
 Domain: Weather (Rainfall Variation over a century) <br>
@@ -10,7 +10,7 @@ Duration: 1901-2015 <br>
 > - [Link 1]( https://data.gov.in/resources/all-india-area-weighted-monthly-seasonal-and-annual-rainfall-mm-1901-2015 )
 
 ### Implementation of the Above Paper.
-Language used for implementation: **C**
+Technical platform used for implementation: **Python3, Jupyter Notebook**
 
 > Implemented By:
 > - Arpit Jain
